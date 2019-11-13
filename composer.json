@@ -15,5 +15,6 @@
       "sections\\HelloWorld\\": "src/"
     }
   },
-  "require": {}
+  "require": {
+  }
 }
